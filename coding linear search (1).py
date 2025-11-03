@@ -17,7 +17,8 @@ for x in range(len(lista)):
         break
 #using an if statement, check to see if found is true or false
 if (found == True):
-    print(f'Found data item! in {count}')
+    print(f'Found data item! in {count}') # count tells how many times the number appears
 else:
     print('Data item not found')
         
+
